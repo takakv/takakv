@@ -1,6 +1,6 @@
 ### Hey there ~ 👋
 
-This is my den for sharing some knowledge and experimenting with ideas.
+This is my den for sharing some knowledge and experimenting with ideas. I am currently working on [Küko](https://kyko.ee), a soon to be compendium of terms and resources about cybersecurity and IT in the Estonian language.
 
 🎨 Profile picture by [littleskrib](https://twitter.com/littleskrib).
 <!--
