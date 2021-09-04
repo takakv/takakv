@@ -1,5 +1,8 @@
-### Hi there 👋
+### Hey there ~ 👋
 
+This is my den for sharing some knowledge and experimenting with ideas.
+
+🎨 Profile picture by [littleskrib](https://twitter.com/littleskrib).
 <!--
 **takakv/takakv** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
