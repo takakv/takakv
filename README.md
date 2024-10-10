@@ -1,6 +1,6 @@
 ### Hey there ~ 👋
 
-This is my den for sharing some knowledge and experimenting with ideas. Please do not use any crypto you find in production.
+This is my den for sharing some knowledge and experimenting with ideas. Please do not use any crypto you find here in production.
 
 🎨 Profile picture by [littleskrib](https://twitter.com/littleskrib).
 
